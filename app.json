@@ -1,7 +1,7 @@
 {
     "name": "Autofilter-bot",
     "description": "When you going to send file on telegram channel this bot will save that in database, So you can search that easily in inline mode",
-    "logo": "https://te.legra.ph/file/6bbf719f63a60f6d3c20a.jpg",
+    "logo": "https://te.legra.ph/file/a95e9e13f154af2492214.jpg",
     "stack": "container",
     "keywords": [
       "telegram",
